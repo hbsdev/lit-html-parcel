@@ -10,5 +10,8 @@
   "privateComment": "private, when set to true, prevents accidental publication",
   "dependencies": {
     "lit-html": "^0.10.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.8.1"
   }
 }
